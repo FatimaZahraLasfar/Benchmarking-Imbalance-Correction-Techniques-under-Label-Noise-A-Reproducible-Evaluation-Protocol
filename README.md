@@ -1,4 +1,4 @@
-# Benchmarking Imbalance Correction Techniques under Label Noise: A Reproducible Evaluation Protocol
+# A Comparative Study Imbalance Correction Techniques under Label Noise: A Reproducible Evaluation Protocol
 
 This repository contains the code and experiments for a systematic evaluation of common imbalance correction techniques, particularly focusing on their performance and robustness in the presence of label noise. The project emphasizes the importance of a standardized, reproducible evaluation protocol to draw reliable conclusions in machine learning research.
 
